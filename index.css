@@ -21,7 +21,7 @@ header h1 a:hover{
 .display{
     display: flex;
     justify-content: space-around;
-    margin-top: 5%;
+    margin-top: 2%;
 }
 .secondDisplay{
     display: flex;
