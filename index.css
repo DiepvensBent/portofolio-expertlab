@@ -1,0 +1,52 @@
+body{
+    background-image: url(./abstract-extruded-voronoi-blocks-background-minimal-light-clean-corporate-wall-3d-geometric-surface-illustration-polygonal-elements-displacement.jpg);
+    display: flex;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+header h1{
+    margin-right: 5%;
+    
+}
+header h1 a{
+    text-decoration: none;
+}
+header h1 a:hover{
+    color: blue;
+}
+.display{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.secondDisplay{
+    display: flex;
+    justify-content: space-around;
+    margin: 5% 15% 0% 15%;
+    
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin-top: 18%;
+    
+}
+.contactContainer{
+    width: 30%;
+    background-color: rgba(255, 240, 110, 0.849);
+    padding: 1%;
+    border-radius: 1em;
+}
+.contactContainer a{
+    text-decoration: none;
+    color: rgb(52, 43, 90);
+}
+.contactContainer a:hover{
+    color: blue;
+}
